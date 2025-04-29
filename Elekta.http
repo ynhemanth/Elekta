@@ -1,0 +1,6 @@
+@Elekta_HostAddress = http://localhost:5156
+
+GET {{Elekta_HostAddress}}/hotel/
+Accept: application/json
+
+###
